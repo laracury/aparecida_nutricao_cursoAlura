@@ -1,2 +1,2 @@
-# aparecida_nutricao_cursoAlura
-Atidade com JavaScript do curso - Programando na linguagem da Web (Alura)
+# Aparecida Nutricao - Curso_Alura
+Atidade com JavaScript do curso - Programando na linguagem da Web 
